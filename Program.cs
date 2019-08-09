@@ -11,6 +11,7 @@ namespace ConsoleAppTest
         static void Main(string[] args)
         {
             Console.WriteLine("Codigo 1 visual studio");
+            Console.WriteLine("Codigo 2 visual studio");
         }
     }
 }

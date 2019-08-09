@@ -11,7 +11,7 @@ namespace ConsoleAppTest
         static void Main(string[] args)
         {
             //Console.WriteLine("lets define");
-            Console.WriteLine("created from visual studio");
+            Console.WriteLine("lets define 2");
         }
     }
 }

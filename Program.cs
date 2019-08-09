@@ -15,6 +15,8 @@ namespace ConsoleAppTest
             Console.WriteLine("Codigo 3 git hub");
             Console.WriteLine("Codigo 4 git hub");
             Console.WriteLine("Codigo 5 git hub");
+            Console.WriteLine("Codigo 6 git hub");
+             Console.WriteLine("Codigo 7 git hub");
         }
     }
 }

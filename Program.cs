@@ -10,7 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
-            //eliminado todo desde visual studio
+            Console.WriteLine("Codigo 1 visual studio");
         }
     }
 }

@@ -18,8 +18,7 @@ namespace ConsoleAppTest
             //Console.WriteLine("Codigo 6 git hub");
             // Console.WriteLine("Codigo 7 git hub");
             //double codigo11 = 11; //int codigo = 10; //Console.WriteLine("Codigo 8 mod codigo 9 git hub");
-
-            Console.WriteLine("Codigo 12 git hub");
+            Console.WriteLine("Codigo 13 vs sustitulle codigo 12");
         }
     }
 }
